@@ -1,1 +1,1 @@
-Usage template for Beamer style AMSPurpleAndGold
+Template for the "AMSPurpleAndGold" Beamer style
