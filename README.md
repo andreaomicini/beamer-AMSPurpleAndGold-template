@@ -1,5 +1,7 @@
 # beamer-AMSPurpleAndGold-template
 
+![AMSPurpleAndGold Beamer template logo](logo/amspurpleandgold-template-full.svg)
+
 > A ready-to-use presentation skeleton for the
 > [AMSPurpleAndGold Beamer style](https://github.com/andreaomicini/beamer-AMSPurpleAndGold)
 
